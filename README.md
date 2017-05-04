@@ -1,4 +1,8 @@
-## About this Project
+### Project Name
+
+Movie Trailer Website
+
+### About this Project
 
 The first project offered by Udacity [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
 
