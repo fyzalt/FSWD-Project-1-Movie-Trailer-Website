@@ -1,6 +1,4 @@
-## Project Name
-
-Movie Trailer Website
+## Movie Trailer Website
 
 ### About this Project
 
